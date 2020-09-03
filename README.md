@@ -26,4 +26,4 @@ Cabé recalcacar que la informacion que se tiene es bastante basica pero de much
 **Este es mi primer readme customizado por decirlo, pueden hacer este tipos de readme con [pandao editor][pandao].**
 [pandao]: http://https://pandao.github.io/editor.md/en.html "Pandao editor de readme.md"
 
-#### Gracias!!! :fa-heart: :fa-heart: :tw-1f604:
+#### Gracias!!! :) ;)
