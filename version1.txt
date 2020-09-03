@@ -24,3 +24,8 @@ no olvidar siempre git add . y git commit -m "comentario"
 hola soy flaviodevloper y me estoy integrando al grupo, aquí tienes los siguientes comandos para clonar un repositorio.
 
 *** git clone https://github.com/example/example.git *** 
+
+Atajos:
+
+git show = muestra la historia y los cambios que hubieron en el repositorio!!!
+
