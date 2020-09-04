@@ -29,3 +29,4 @@ Atajos:
 
 git show = muestra la historia y los cambios que hubieron en el repositorio!!!
 
+git pull origin master and git push origin master =  nos sirve para traer datos y subirlos.
